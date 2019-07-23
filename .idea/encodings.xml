@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/FreeMarkerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/FreeMarkerTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/IText.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/spsChange.ftl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/spsPdf.ftl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/spsPdf1.ftl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../pdf_form/src/main/java/test.ftl" charset="GBK" />
+  </component>
+</project>
