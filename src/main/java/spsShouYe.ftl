@@ -6,36 +6,37 @@
         body {
             font-family: SimSun;
         }
-div{
-    width: 600px;
-    height: 500px;
-    text-align: center;
-    /*margin-top: 50px;*/
-    line-height: 60px;
-}
 
+        div {
+            width: 600px;
+            height: 50px;
+            text-align: center;
+            /*margin-top: 50px;*/
+            line-height: 60px;
+        }
+
+        .div1 {
+            width: 300px;
+            height: 400px;
+            border: 1px solid #000;
+            text-align: center
+        }
 
 
     </style>
 </head>
 
-<body >
+<body>
 <table width="650" border="1" cellpadding="8" cellspacing="0">
 
     <tr style="line-height: 610px">
-           <div >工艺规程
+        <div>工艺规程</div>
+    </tr>
 
-               产品型号：
-               零件名称：
-               零件图号:
-               工艺名称：
-               文件编号：
-           </div>
+    <tr class="div1" style="line-height: 200px">
+        产品型号：
+    </tr>
 
-
-
-
-        </tr>
 
 </table>
 <table width="650" border="1">
